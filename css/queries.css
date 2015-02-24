@@ -27,4 +27,7 @@ CSS Queries
     nav ul { display: inline-block; height: auto; }
     .pullcontainer { width: 100%; text-align: right; padding: 20px 40px 0 0; }
     .pullcontainer a#pull { display: block; width: 100%; color: #242a2c; }
+    .hero {
+      height: 450px;
+    }
 }
